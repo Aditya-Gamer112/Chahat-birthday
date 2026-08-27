@@ -11,7 +11,7 @@ const shantell = Shantell_Sans({
 });
 
 export const metadata = {
-  title: "Happy Birthday!",
+  title: "Happy Birthday Chiku!",
   description: "Celebrate your day with joy and happiness!",
 };
 
