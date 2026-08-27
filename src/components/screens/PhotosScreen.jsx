@@ -12,7 +12,7 @@ const photos = [
   "/images/Screenshot_20260827_163354_Video Player.jpg",
   "/images/IMG-20260730-WA0001(1).jpg",
   "/images/IMG-20260730-WA0003.jpg",
-  "/images/4.jpg",
+  "/images/IMG_20260801_184344_064.jpg",
 ]
 
 export default function PhotosScreen({ onNext }) {
