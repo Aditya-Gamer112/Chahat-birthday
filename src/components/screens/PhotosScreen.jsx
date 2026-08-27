@@ -9,7 +9,7 @@ import { Mail } from "lucide-react"
 import Button from "../Button"
 
 const photos = [
-  "/images/1.jpg",
+  "/images/Screenshot_20260827_163354_Video Player.jpg",
   "/images/2.jpg",
   "/images/3.jpg",
   "/images/4.jpg",
