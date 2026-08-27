@@ -10,8 +10,8 @@ import Button from "../Button"
 
 const photos = [
   "/images/Screenshot_20260827_163354_Video Player.jpg",
-  "/images/2.jpg",
-  "/images/3.jpg",
+  "/images/IMG-20260730-WA0001(1).jpg",
+  "/images/IMG-20260730-WA0003.jpg",
   "/images/4.jpg",
 ]
 
